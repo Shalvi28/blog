@@ -1,0 +1,82 @@
+body {
+    background-color: #9A9A9A;
+    margin: 0px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2, h4 {
+    margin: 0px;
+}
+#h{
+    background-color: darkorchid;
+}
+
+.header, .card {
+    background-color: #ffffff;
+}
+
+.header {
+    position: sticky;
+    top: 0px;
+    background-color: darkgoldenrod;
+}
+
+.container {
+    display: flex;
+}
+
+.leftcontent {
+    padding: 5px;
+    width: calc(70% - 10px);
+    float: left;
+}
+
+.rightcontent {
+    padding: 5px;
+    width: calc(30% - 10px);
+    float: right;
+    background-color: deepskyblue;
+}
+
+.card {
+    margin: 5px 0px;
+    padding: 10px;
+    
+}
+#brief
+{
+    background-color: lightsalmon;
+}
+
+img {
+    width: 100%;
+}
+
+.right-sticky {
+    position: sticky;
+    top: 40px;
+}
+#p
+{
+    background-color: limegreen;
+}
+#b1
+{
+    background-color: rgb(238, 234, 14);
+}
+#b
+{
+    background-color: mistyrose;
+}
+#aboutme{
+background-color: palegoldenrod;
+}
+h5{
+    background-color: rgb(40, 197, 245);
+}
+ul{
+    background-color: plum;
+}
